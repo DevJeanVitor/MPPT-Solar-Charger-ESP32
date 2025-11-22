@@ -64,8 +64,8 @@ The system acts as an IoT node, sending critical data packets every few seconds.
 
 ## Academic Context
 
-**Institution:** Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL)  
-**Research topic:** Development of a Charge Controller for Photovoltaic Panels in MPPT Configuration, Controlled by Arduino for Charging Electric Cars.
-**Program:** PIBITI (Research and Technological Development)  
-**Period:** Sep 2024 - Aug 2025  
-**Advisor:** MSc Paulo César do Nascimento Cunha
+* **Institution:** Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL)
+* **Research topic:** Development of a Charge Controller for Photovoltaic Panels in MPPT Configuration, Controlled by Arduino for Charging Electric Cars.
+* **Program:** PIBITI (Research and Technological Development)
+* **Period:** Sep 2024 - Aug 2025
+* **Advisor:** MSc Paulo César do Nascimento Cunha
