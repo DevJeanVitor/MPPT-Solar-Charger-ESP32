@@ -8,7 +8,8 @@
 </div>
 
 ## Project Overview
-This project focuses on the development of a smart **Solar Charge Controller** designed to optimize the charging process of Electric Vehicles (EVs) directly from photovoltaic panels.
+This project focuses on the development of a smart **Solar Charge Controller** designed to optimize the charging process of Electric Vehicles (EVs) directly from photovoltaic panels. <br>
+
 The system integrates **IoT connectivity** with the system hardware for more efficient monitoring. It implements the **MPPT (Maximum Power Point Tracking)** algorithm on an **ESP32** to maximize energy extraction and synchronizes real-time telemetry data with **Google Firebase**, enabling remote monitoring through a customized **mobile application**.
 
 ### Key Results
