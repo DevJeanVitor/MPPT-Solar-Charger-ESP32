@@ -19,13 +19,13 @@ The system integrates **IoT connectivity** with the system hardware for more eff
 
 ## Technologies and tools
 
-Technologies used:
+Technologies used: <br>
 
-**Firmware:** C++, MPPT algorithms.
-**Hardware:** ESP32 (SoC), MOSFETs, power sensors (voltage/current), PCB design.
-**Connectivity:** WiFi (station mode), Google Firebase (real-time database).
-**Mobile app:** Android, secure authentication, real-time dashboard.
-**Tools:** Arduino IDE, EasyEDA.
+**Firmware:** C++, MPPT algorithms. <br>
+**Hardware:** ESP32 (SoC), MOSFETs, power sensors (voltage/current), PCB design. <br>
+**Connectivity:** WiFi (station mode), Google Firebase (real-time database). <br>
+**Mobile app:** Android, secure authentication, real-time dashboard. <br>
+**Tools:** Arduino IDE, EasyEDA. <br>
 
 ## System architecture (how it works)
 
